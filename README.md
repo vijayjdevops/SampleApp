@@ -1,2 +1,2 @@
 # SampleApp
-Sample project
+Sample project for creating GIT projects
